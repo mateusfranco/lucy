@@ -1,5 +1,7 @@
 const constants = require('./config/constants');
-const {CLIENT, TOKEN} = constants;
+const {TOKEN} = require('./config/token');
+const {CLIENT} = constants;
+
 const {Chatterbot} = require('./chatterbot/index');
 
 CLIENT.on('ready', () => {
