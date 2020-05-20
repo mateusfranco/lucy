@@ -1,7 +1,7 @@
-#please read this
+# please read this
 
-##to connect in bot with discord you need token of bot
-##to create token bot you can init a aplication in discord tab to DEV
+## to connect in bot with discord you need token of bot
+## to create token bot you can init a aplication in discord tab to DEV
 
 ## after create the bot you should copy the token of bot 
 
@@ -9,8 +9,8 @@
 
 ## copy the instructions above:
 
-`
+```
 const TOKEN = 'yout token here';
 
 module.exports = {TOKEN};
-`
+```
