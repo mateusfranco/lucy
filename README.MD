@@ -1,2 +1,2 @@
-#Somente um bot para discord com varios comandos
+# Somente um bot para discord com varios comandos
 
